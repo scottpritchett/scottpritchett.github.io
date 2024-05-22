@@ -1,6 +1,8 @@
+---
 layout: page
 title: "PAGE-1"
 permalink: /page1
+---
 
 # Header 1
 ## Header 2
